@@ -7,16 +7,21 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="container">
   <h1 class="title">Stopwatch Timer</h1>
-  <div class="timer">
-    <div class="timer-ring"></div>
-    <div class="show-time">00:00:00</div>
+    <div class="timer">
+      <div class="timer-ring"></div>
+      <div class="show-time">00:00:00</div>
+    </div>
+    <div class="controls">
+      <button id="start">Start</button>
+      <button id="stop">Stop</button>
+      <button id="reset">Reset</button>
+      <button id="lap">Lap</button>
+    </div>
   </div>
-  <div class="controls">
-    <button id="start">Start</button>
-    <button id="stop">Stop</button>
-    <button id="reset">Reset</button>
-    <button id="lap">Lap</button>
-  </div>
+
+  <ul class="laps"></ul>
+  <script src="./script.js"></script>
 </body>
 </html>
