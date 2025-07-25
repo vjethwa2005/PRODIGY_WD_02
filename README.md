@@ -15,10 +15,10 @@ A simple and interactive stopwatch web application built using **HTML**, **CSS**
 ---
 ## 📁 File Structure
 .
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+```├── index.html```
+```├── style.css```
+```├── script.js```
+```└── README.md```
 ---
 
 ## 🛠️ Technologies Used
