@@ -13,12 +13,7 @@ A simple and interactive stopwatch web application built using **HTML**, **CSS**
 - Fully responsive layout
 
 ---
-## 📁 File Structure
-.
-```├── index.html```
-```├── style.css```
-```├── script.js```
-```└── README.md```
+<pre> ## 📁 File Structure ``` . ├── index.html ├── style.css ├── script.js └── README.md ``` </pre>
 ---
 
 ## 🛠️ Technologies Used
