@@ -14,12 +14,12 @@ A simple and interactive stopwatch web application built using **HTML**, **CSS**
 
 ---
 
-## 📁 File Structure 
+<pre> 📁 File Structure 
   . 
   ├── index.html 
   ├── style.css 
   ├── script.js 
-  └── README.md 
+  └── README.md </pre>
 ---
 
 ## 🛠️ Technologies Used
